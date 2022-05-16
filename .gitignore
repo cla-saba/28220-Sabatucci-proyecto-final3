@@ -1,0 +1,6 @@
+node_modules
+.env
+package-lock.json
+proyecto-final-3c3a8-firebase-adminsdk-627gu-3bbd75e986.json
+src/db
+logs
